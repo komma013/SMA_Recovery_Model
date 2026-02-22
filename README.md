@@ -10,4 +10,5 @@ To run:
 3. Run the script
 
 If you use this code, please cite:
-Kommalapati, A. (2026). SMA Sequential Therapy Recovery Model.
+Kommalapati, A. (2026). SMA Sequential Therapy Recovery Model. 
+Read through LICENSE section before citation
