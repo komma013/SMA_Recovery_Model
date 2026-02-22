@@ -9,8 +9,12 @@ Predicted trajectories are generated for:
 * **CHOP-INTEND** — motor function scale for Type I SMA
 * **HFMSE** — motor function scale for Type II SMA
 
-Predictions are evaluated at 6, 12, 18, and 24 months after initiation of the second therapy.
+Predictions are evaluated at 6, 12, 18, and 24 months after initiation of the second therapy in `CHOP_Timepoint_Predictions.csv` and `HFMSE_Timepoint_Predictions.csv`
 
+Data:
+
+* Compiled data is provided in `CHOP_Dataset.csv` and `HFMSE_Dataset.csv`
+  
 Files:
 
 * `CHOP_Model.R` — implements the CHOP-INTEND recovery model and generates the CHOP trajectory figures shown on the poster
