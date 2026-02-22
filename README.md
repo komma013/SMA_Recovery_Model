@@ -39,6 +39,7 @@ Reproducibility:
 License:
 
 * MIT License
+* Full agreement located in `LICENSE` file
 
 Citation:
 * If you reference or build upon this work, please credit:
