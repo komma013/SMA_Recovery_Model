@@ -11,32 +11,32 @@ Predicted trajectories are generated for:
 
 Predictions are evaluated at 6, 12, 18, and 24 months after initiation of the second therapy.
 
-*Files:
+Files:
 
 * `CHOP_Model.R` — implements the CHOP-INTEND recovery model and generates the CHOP trajectory figures shown on the poster
 * `HFMSE_Model.R` — implements the HFMSE recovery model and generates the HFMSE trajectory figures shown on the poster
 
-* How to run:
+How to run:
 
-1. Open a script in RStudio.
-2. Install required packages listed at the top of the file.
-3. Run the script to generate model predictions and figures.
+* 1. Open a script in RStudio.
+* 2. Install required packages listed at the top of the file.
+* 3. Run the script to generate model predictions and figures.
 
-* Data & Compliance:
+Data & Compliance:
 
-The scripts generate model-based predictions and figures.
+* The scripts generate model-based predictions and figures.
 
-No patient-level or identifiable data are included.
+* No patient-level or identifiable data are included.
 
-* Reproducibility:
+Reproducibility:
 
-Running the scripts will reproduce the model outputs and visualizations presented on the poster.
+* Running the scripts will reproduce the model outputs and visualizations presented on the poster.
 
-* License:
+License:
 
-MIT License
+* MIT License
 
-* Citation:
-If you reference or build upon this work, please credit:
+Citation:
+* If you reference or build upon this work, please credit:
 
 **Anish Kommalapati, 2026**
